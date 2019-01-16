@@ -1,0 +1,21 @@
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
+import java.io.Writer;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.HashMap;
+//import java.util.Map;
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		//Map<String, String> words = new HashMap<>();
+		Map<String, String> words = new HashMap<>();
+		words.put("apple", "ផ្លែប៉ោម");
+		words.put("book", "សៀវភៅ");
+		
+		
+	}
