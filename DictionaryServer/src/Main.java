@@ -28,7 +28,7 @@ public class Main {
 		
 		try {
 			System.out.println("Bind port ...");
-			ServerSocket serverSocket = new ServerSocket(1111);
+			ServerSocket serverSocket = new ServerSocket(1234);
 			while(true) {
 				// Wait and accept connection from client
 				System.out.println("Wait for client ...");

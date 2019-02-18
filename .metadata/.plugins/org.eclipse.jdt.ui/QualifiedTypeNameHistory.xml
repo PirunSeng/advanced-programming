@@ -15,4 +15,7 @@
 <fullyQualifiedTypeName name="TranslationThread"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLSocketFactory"/>
+<fullyQualifiedTypeName name="javax.net.SocketFactory"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLSocket"/>
 </qualifiedTypeNameHistroy>
